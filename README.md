@@ -30,7 +30,7 @@
 
       <address>
         <a href="mailto:info@devstudio.com">info@devstudio.com</a><br />
-        <a href="tell:+11 (000) 111-11-11">+11 (000) 111-11-11</a>
+        <a href="tell:+11(000)111-11-11">+11 (000) 111-11-11</a>
       </address>
     </header>
 
